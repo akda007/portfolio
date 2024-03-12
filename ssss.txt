@@ -1,0 +1,31 @@
+header com o nome na esquerda e , HOME, SOBRE, PROJECTS, GITHUB/CONTATO
+
+divisao do site em algumas secoes
+frase impacto e foto minha....
+
+
+sobre minhas skill
+
+
+
+footer com algumas informacoes sobre contato
+
+
+na pagina sobre, ter algumas informacoes sobre minha vida, motivacoes e carreiras
+
+
+na pagina contato ter informações sobre o github, e emails
+
+na pagina github ter algumas informacoes sobre 
+
+
+
+Paleta de cores minimalista e mais para o cinza fosco, preto com alguns detalhes brancos:
+
+Cinza escuro: #3C3C3C
+Cinza claro: #CACACA 
+Esbranquiçado: #F5F5F5
+Cinza: #A8A8A8
+Cinza um pouquinho mais escuro: #868686
+
+
