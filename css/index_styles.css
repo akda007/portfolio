@@ -311,4 +311,10 @@ section {
     .info-section {
         font-size: 1.4em;
     }
+
+    .text-info p {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
 }
